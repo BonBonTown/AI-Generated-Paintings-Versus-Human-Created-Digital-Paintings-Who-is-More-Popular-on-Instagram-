@@ -29,6 +29,6 @@ The popularity is going to be assessed by comparing the number of likes, shares,
 #### Source: 
 Instagram API
 #### Tools and Methods: 
-Python, Web Scraping, data visualization, Natural Language Processing… 
+Python, Web Scraping, Data Visualization, Natural Language Processing… 
 
 
