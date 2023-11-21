@@ -6,7 +6,7 @@ In the past few years, AI has rapidly advanced, influencing various sectors of s
 However, the participants in these studies were selected based on research needs, and the sample size was relatively small. This time, I want to broaden the sample size and compare the popularity of AI-generated paintings and human-created digital paintings within the enviroment of social media. Instagram is one of the most popular social media platforms with abundant digital photos posted everyday, so I want to choose Instagram as the data source.  
 
 ## Hypothesis:
-Human-created Digital Paintings are more popular than AI-generated Paintings on Instagram
+Human-created Digital Paintings are more Popular than AI-generated Paintings on Instagram
 
 ## How to Explore?
 ### Sample: 
